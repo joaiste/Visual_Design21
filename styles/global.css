@@ -1,0 +1,46 @@
+body {
+  font-family: "Inter", "calibri", sans-serif;
+}
+
+main {
+  margin: 0 17rem;
+  margin-top: 7rem;
+  margin-bottom: 6rem;
+}
+
+.top-nav {
+  display: block;
+  width: 53rem;
+  position: center;
+  margin: 0 30rem;
+  margin-top: 4rem;
+}
+
+.top-nav-all-items {
+  display: flex;
+  list-style: none;
+  text-transform: uppercase;
+  font-style: italic;
+  justify-content: space-between;
+}
+
+.top-nav-item a,
+.mobile-top-nav-item a {
+  padding: 0.5rem;
+  color: #352e2c;
+  font-size: 1.2rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.top-nav-item a:hover,
+.top-nav-item a:active,
+.mobile-top-nav-item a:hover,
+.mobile-top-nav-item a:active {
+  background-color: #cabcb3;
+  border-radius: 0.15rem;
+}
+
+.para-block1 {
+  text-align: center;
+}

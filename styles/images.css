@@ -1,0 +1,10 @@
+.images__title {
+  text-align: center;
+}
+
+.image__pair {
+  margin-top: 4rem;
+  margin-bottom: 6rem;
+  display: flex;
+  flex-direction: column;
+}

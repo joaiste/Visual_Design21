@@ -1,0 +1,25 @@
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.prototypes__title {
+  text-transform: capitalize;
+  font-style: italic;
+  position: center;
+}
+
+.prototypes__grid {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.prototype-content__image img {
+  width: 60rem;
+}
+
+.prototypes__prototype-content {
+  margin-bottom: 5rem;
+}
